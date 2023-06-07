@@ -1,0 +1,9 @@
+{
+  "name": "磁铁",
+  "tooltip": [
+    "§e手持且蹲下时可自动捡掉落物",
+    "§b整合包自定义物品 by YL_kkx"
+  ],
+  "max_stack": 1,
+  "type": "additions:simple"
+}
