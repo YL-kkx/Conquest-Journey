@@ -1,0 +1,14 @@
+{
+    "name": "absorption2",
+    "potion": "minecraft:absorption",
+    "amplifier": 1,
+    "minimum": 86,
+    "maximum": 100,
+    "detect": "any",
+    "nutrients": [
+        "grain"
+    ],
+    "cumulative_modifier": 1,
+    "enabled": true
+
+}

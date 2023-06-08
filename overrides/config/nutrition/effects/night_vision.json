@@ -1,0 +1,14 @@
+{
+    "name": "night_vision",
+    "potion": "minecraft:night_vision",
+    "amplifier": 0,
+    "minimum": 0,
+    "maximum": 15,
+    "detect": "any",
+    "nutrients": [
+        "grain"
+    ],
+    "cumulative_modifier": 1,
+    "enabled": true
+
+}
