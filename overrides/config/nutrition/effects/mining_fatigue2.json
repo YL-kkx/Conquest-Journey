@@ -1,0 +1,14 @@
+{
+    "name": "mining_fatigue2",
+    "potion": "minecraft:mining_fatigue",
+    "amplifier": 1,
+    "minimum": 0,
+    "maximum": 14,
+    "detect": "any",
+    "nutrients": [
+        "vegetable"
+    ],
+    "cumulative_modifier": 1,
+    "enabled": true
+
+}

@@ -1,0 +1,14 @@
+{
+    "name": "regeneration2",
+    "potion": "minecraft:regeneration",
+    "amplifier": 1,
+    "minimum": 86,
+    "maximum": 100,
+    "detect": "any",
+    "nutrients": [
+        "fruit"
+    ],
+    "cumulative_modifier": 1,
+    "enabled": true
+
+}

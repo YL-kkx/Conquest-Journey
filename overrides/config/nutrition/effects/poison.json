@@ -1,0 +1,14 @@
+{
+    "name": "poison",
+    "potion": "minecraft:poison",
+    "amplifier": 0,
+    "minimum": 0,
+    "maximum": 14,
+    "detect": "any",
+    "nutrients": [
+        "protein"
+    ],
+    "cumulative_modifier": 1,
+    "enabled": true
+
+}
