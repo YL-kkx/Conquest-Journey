@@ -1,0 +1,4 @@
+{
+    "parent": "builtin/panorama",
+    "image": "customloadingscreen:textures/panorama2/panorama_x.png"
+}

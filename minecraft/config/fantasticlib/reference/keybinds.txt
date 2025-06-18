@@ -1,0 +1,98 @@
+key.categories.movement
+key.forward
+key.right
+key.back
+key.left
+key.sneak
+key.sprint
+key.jump
+
+key.categories.gameplay
+key.use
+key.attack
+key.pickItem
+
+key.categories.inventory
+key.drop
+key.swapHands
+key.inventory
+key.hotbar.1
+key.hotbar.2
+key.hotbar.3
+key.hotbar.4
+key.hotbar.5
+key.hotbar.6
+key.hotbar.7
+key.hotbar.8
+key.hotbar.9
+equipmentcompare.key.showTooltips
+keybind.baublesinventory
+
+key.categories.creative
+key.saveToolbarActivator
+key.loadToolbarActivator
+
+key.categories.multiplayer
+key.chat
+key.playerlist
+key.command
+
+key.categories.misc
+of.key.zoom
+key.fullscreen
+key.smoothCamera
+key.togglePerspective
+key.screenshot
+打开按键向导
+key.advancements
+key.spectatorOutlines
+
+Better Foliage
+key.betterfoliage.gui
+
+First Aid
+keybinds.show_wounds
+
+great-scrollable-tooltips.key-binding.category
+great-scrollable-tooltips.key-binding.scroll-up
+great-scrollable-tooltips.key-binding.scroll-down
+great-scrollable-tooltips.key-binding.scroll-right
+great-scrollable-tooltips.key-binding.scroll-left
+
+Mo' Bends
+Mo' Bends Menu
+Refresh Animations
+
+nimble.gui.keygroup
+nimble.keybind.frontView
+
+Panorama
+panorama.keybinds.screenshot
+
+Shoulder Surfing
+Camera closer
+Camera down
+Camera farther
+Camera left
+Camera right
+Camera up
+Swap shoulder
+Toggle perspective
+
+key.categories.theoneprobe
+key.toggleVisible
+key.toggleLiquids
+
+Universal Tweaks
+keybind.universaltweaks.clear_toasts
+
+World Tooltips
+World Tooltips Configuration
+
+key.weaponmaster_ydm.category
+key.weaponmaster_ydm.opengui
+
+key.categories.bogosorter
+key.sort_config
+key.sort
+
