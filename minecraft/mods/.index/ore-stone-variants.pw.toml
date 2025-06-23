@@ -1,0 +1,16 @@
+filename = 'Ore Stone Variants-5.14.jar'
+name = 'Ore Stone Variants'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '385f64505d1c43ae11e9f9087f08ef53b0a3df89'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3320887
+project-id = 287538

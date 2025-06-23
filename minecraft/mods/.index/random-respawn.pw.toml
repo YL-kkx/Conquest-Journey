@@ -1,0 +1,16 @@
+filename = 'RandomRespawn-1.0-MC1.12.2.jar'
+name = 'Random Respawn'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25c01c43b1d9cb3c023fbb1a8bd02e083a1f5607'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2802377
+project-id = 345686

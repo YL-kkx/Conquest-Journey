@@ -1,0 +1,16 @@
+filename = 'cta-1.12.2-1.2.2.jar'
+name = 'Advancement Locator'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9b683d316ec78f404de3fc7275a23ed241cba749'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4723768
+project-id = 818503

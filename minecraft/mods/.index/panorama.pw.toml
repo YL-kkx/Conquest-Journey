@@ -1,0 +1,16 @@
+filename = 'panorama-1.2.0 - 1.12.2.jar'
+name = 'Panorama'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b2391f24af472642c8dcbcb7fe2360802e965d16'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4429665
+project-id = 440465

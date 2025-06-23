@@ -1,0 +1,16 @@
+filename = 'biomeinfo-1.12.2-v1.2.5.jar'
+name = 'BiomeInfo'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad49f9df3515944def59193c7b25d0e14a0d8bce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2845257
+project-id = 291480

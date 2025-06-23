@@ -1,0 +1,16 @@
+filename = 'realisticphysics-1.12.2-1.0.1.jar'
+name = 'Realistic Physics'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c9163befd3bf8133e06ff044d87a336f8e5f399966bc5ef2a20c9d707b8d81e1e186529cd8d89e38908c828f19f53b06bf52a447f593a39fa1048d0e315cb9a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SMLKjRsR/versions/fNWYh2G9/realisticphysics-1.12.2-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'SMLKjRsR'
+version = 'fNWYh2G9'

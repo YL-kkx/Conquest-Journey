@@ -1,0 +1,16 @@
+filename = 'DynamicTreesBOP-1.12.2-1.5.2.jar'
+name = "Dynamic Trees - Biomes O' Plenty"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '145f3251a556dd9d5f2a75bcf9bfdd053a9f5b3e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4586993
+project-id = 289529

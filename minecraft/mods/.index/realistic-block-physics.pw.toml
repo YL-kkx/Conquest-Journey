@@ -1,0 +1,16 @@
+filename = 'rbp-1.12.2-3.0.0.jar'
+name = 'Realistic Block Physics'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4d4993f21137db7bf6b8a45c3f041c4fa7d651250ffd51ca788a82144940d5de6438f7882abef3faea6aa05ae906c98a8dabfd7ae174fd5347689185007bada3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/45TL8yoG/versions/hue3vbR9/rbp-1.12.2-3.0.0.jar'
+
+[update.modrinth]
+mod-id = '45TL8yoG'
+version = 'hue3vbR9'

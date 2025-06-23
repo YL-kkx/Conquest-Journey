@@ -1,0 +1,16 @@
+filename = 'BetterThirdPerson-Forge-1.12.2-1.9.0.jar'
+name = 'Better Third Person'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ec1f374ca4ea12672bc3acad9e3e9d84c8b0a7c4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4226609
+project-id = 435044
